@@ -1,4 +1,4 @@
-# ChatGLM3 inference Demo
+# Qwen3-4b inference Demo
 
 ## 1. install requirements
 ```bash
