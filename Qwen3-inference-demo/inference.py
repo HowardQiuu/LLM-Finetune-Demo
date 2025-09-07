@@ -9,8 +9,8 @@ model = AutoModelForCausalLM.from_pretrained(
     model_name,
     trust_remote_code=True,
     device_map="auto",
-    offload_folder="./offload",    
-    offload_state_dict=True
+    offload_folder="./offload",  # specify a folder to offload weights if needed  
+    offload_state_dict=True # offload the model weights to CPU when not in use
 ).eval()
 
 print("✅ Model loaded. Ready for inference!")
