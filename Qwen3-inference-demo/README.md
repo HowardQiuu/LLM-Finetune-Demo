@@ -1,9 +1,8 @@
 # Qwen3-4b inference Demo
 
-## 1. install requirements
+install requirements by
 ```bash
 pip install -r requirements.txt
-
-## 2. run inference
-'''bash
+run inference by
+```bash
 python inference.py
