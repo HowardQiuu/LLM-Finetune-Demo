@@ -1,1 +1,2 @@
-# LLM-Finetune-Demo
+# LLM-Learning-Blog
+This is a repository used to record my own learning content, including some project implementation demos. If it helps you, feel free to access it. If you have any questions, please contact me.
